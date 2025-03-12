@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BFB42ACB2D7E9C6300BAC785 /* CitySights App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CitySights App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BFB42ACB2D7E9C6300BAC785 /* CitySights App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "CitySights App.app"; path = "/Users/vikshitkode/Documents/CitySights App/build/Debug-iphoneos/CitySights App.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				BFB42ACD2D7E9C6300BAC785 /* CitySights App */,
-				BFB42ACC2D7E9C6300BAC785 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		BFB42ACC2D7E9C6300BAC785 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				BFB42ACB2D7E9C6300BAC785 /* CitySights App.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = BFB42AC22D7E9C6300BAC785;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = BFB42ACC2D7E9C6300BAC785 /* Products */;
+			productRefGroup = BFB42AC22D7E9C6300BAC785;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
