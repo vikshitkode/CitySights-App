@@ -24,7 +24,7 @@ struct ContentView: View {
         }
         .padding()
         .task {
-            await service.buinessSearch()
+            let businesses = await service.buinessSearch()
         }
     }
 }
