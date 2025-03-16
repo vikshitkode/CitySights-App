@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		BFB42ACB2D7E9C6300BAC785 /* CitySights App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "CitySights App.app"; path = "/Users/vikshitkode/Documents/CitySights App/build/Debug-iphoneos/CitySights App.app"; sourceTree = "<absolute>"; };
+		BF1FDF932D867AFF009E7189 /* CitySights App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "CitySights App.app"; path = "/Users/vikshitkode/Documents/CitySights App/build/Debug-iphoneos/CitySights App.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -58,7 +58,7 @@
 			packageProductDependencies = (
 			);
 			productName = "CitySights App";
-			productReference = BFB42ACB2D7E9C6300BAC785 /* CitySights App.app */;
+			productReference = BF1FDF932D867AFF009E7189 /* CitySights App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
